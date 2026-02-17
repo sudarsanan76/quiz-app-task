@@ -1,16 +1,9 @@
-# quiz_app
+I have completed the technical task, TriviaX, for Pristine Infotech. 
 
-A new Flutter project.
+The application is built using Flutter and follows the MVVM architecture with dedicated Models, ViewModels, and Views. For state management, I have used Riverpod, while GetX handles navigation and Dio is used for API integration.
 
-## Getting Started
+Access Credentials:
 
-This project is a starting point for a Flutter application.
+Admin: admin / 1234
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User: user / 123"
